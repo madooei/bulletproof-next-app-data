@@ -14,5 +14,13 @@
     "content": "This is the second one!",
     "createdAt": 1626581617430,
     "id": "05lLcVKESNSzRFXmJaW9-pL01j3Sws"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "This is the third one!",
+    "createdAt": 1626581630051,
+    "id": "hTL5oa7C4YaZwh4TZytgy0u9beY-2h"
   }
 ]
